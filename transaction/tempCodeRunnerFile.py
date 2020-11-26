@@ -1,0 +1,1 @@
+from flask.ext.mysqldb import MYSQL
